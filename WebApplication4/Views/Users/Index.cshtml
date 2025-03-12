@@ -1,0 +1,126 @@
+﻿@model IEnumerable<WebApplication4.Models.User>
+
+@{
+    ViewData["Title"] = "Users";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+
+<style>
+    /* Background Styling */
+    body {
+        background: url('https://st2.depositphotos.com/36924814/46461/i/950/depositphotos_464618606-stock-photo-medical-green-blue-cross-pattern.jpg') no-repeat center center fixed;
+        background-size: cover;
+        font-family: 'Arial', sans-serif;
+    }
+
+    /* Table Styling */
+    .table-container {
+        max-width: 90%;
+        margin: 30px auto;
+        background: rgba(255, 255, 255, 0.95);
+        padding: 20px;
+        border-radius: 15px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+
+    h1 {
+        text-align: center;
+        color: #2c3e50;
+        font-weight: bold;
+        margin-bottom: 20px;
+    }
+
+    .table {
+        width: 100%;
+        border-collapse: collapse;
+        background: white;
+        border-radius: 10px;
+        overflow: hidden;
+    }
+
+        .table th, .table td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .table thead {
+            background-color: #0275d8;
+            color: white;
+        }
+
+        .table tbody tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        .table tbody tr:hover {
+            background-color: #e6f7ff;
+            transition: 0.3s;
+        }
+
+    /* Action Buttons */
+    .action-buttons a {
+        text-decoration: none;
+        padding: 5px 10px;
+        margin: 2px;
+        border-radius: 5px;
+        font-size: 14px;
+    }
+
+    .edit-btn {
+        background-color: #28a745;
+        color: white;
+    }
+
+        .edit-btn:hover {
+            background-color: #218838;
+        }
+
+    .delete-btn {
+        background-color: #dc3545;
+        color: white;
+    }
+
+        .delete-btn:hover {
+            background-color: #c82333;
+        }
+</style>
+
+<div class="table-container">
+    <h1>Users Data</h1>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>User Name</th>
+                <th>Email Address</th>
+                <th>Password</th>
+                <th>Contact Number</th>
+                <th>User Address</th>
+                <th>Blood Group</th>
+                <th>Wallet Balance</th>
+                <th>User Status</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.u_Name)</td>
+                    <td>@Html.DisplayFor(modelItem => item.u_Email)</td>
+                    <td>@Html.DisplayFor(modelItem => item.u_Password)</td>
+                    <td>@Html.DisplayFor(modelItem => item.u_PhoneNumber)</td>
+                    <td>@Html.DisplayFor(modelItem => item.u_Address)</td>
+                    <td>@Html.DisplayFor(modelItem => item.u_bloodgroup)</td>
+                    <td>@Html.DisplayFor(modelItem => item.u_wallet)</td>
+                    <td>@Html.DisplayFor(modelItem => item.u_status)</td>
+                    <td class="action-buttons">
+                        <a asp-action="Edit" asp-route-id="@item.u_Id" class="edit-btn">Edit</a>
+                        <a asp-action="Delete" asp-route-id="@item.u_Id" class="delete-btn">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

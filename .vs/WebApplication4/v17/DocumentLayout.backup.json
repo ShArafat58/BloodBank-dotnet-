@@ -1,0 +1,1053 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\admin\\closed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\admin\\closed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\admin\\close.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\admin\\close.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\users\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\users\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\controllers\\hospitalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\controllers\\hospitalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\hospitals\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\hospitals\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\controllers\\blood_datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\controllers\\blood_datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\employee\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\employee\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\admin\\transaction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\admin\\transaction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\admin\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\admin\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\blood_data\\index_u.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\blood_data\\index_u.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\users\\selectcity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\users\\selectcity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\blood_data\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\blood_data\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\transactions\\index_u.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\transactions\\index_u.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\users\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\users\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\hospitals\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\hospitals\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\cities\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\cities\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\transactions\\create_d.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\transactions\\create_d.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\hospitals\\index_d.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\hospitals\\index_d.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\transactions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\transactions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\transactions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\transactions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\hospitals\\index_r.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\hospitals\\index_r.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\webapplication4.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\webapplication4.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\shared\\_layoutsp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\shared\\_layoutsp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\shared\\_layout_u.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\shared\\_layout_u.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\shared\\_layout_home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\shared\\_layout_home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\shared\\_layout_c.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\shared\\_layout_c.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\AppData\\Local\\Temp\\.vsdbgsrc\\ac9dbb81ec62658a48713a4cad6a621c32dce53b\\Views_Users_SelectCity_cshtml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\employee\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\employee\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\hospitals\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\hospitals\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\hospitals\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\hospitals\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\cities\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\cities\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\cities\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\cities\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\cities\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\cities\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\views\\cities\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\cities\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|e:\\project\\blood-bank-management-system-master\\blood-bank-management-system-master\\webapplication4\\migrations\\20250224012136_bloodbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DB7D15-1AD1-40BE-93BA-41094C110818}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\migrations\\20250224012136_bloodbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Closed.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Admin\\Closed.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Admin\\Closed.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Admin\\Closed.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Admin\\Closed.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T09:44:02.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Close.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Admin\\Close.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Admin\\Close.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Admin\\Close.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Admin\\Close.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T09:44:11.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HospitalsController.cs",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Controllers\\HospitalsController.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Controllers\\HospitalsController.cs",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Controllers\\HospitalsController.cs",
+              "RelativeToolTip": "WebApplication4\\Controllers\\HospitalsController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:39:41.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Admin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Admin\\Edit.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Admin\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Admin\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T09:39:17.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Users\\Delete.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Users\\Delete.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Users\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T09:28:20.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Users\\Details.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Users\\Details.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Users\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T09:27:59.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Blood_dataController.cs",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Controllers\\Blood_dataController.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Controllers\\Blood_dataController.cs",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Controllers\\Blood_dataController.cs",
+              "RelativeToolTip": "WebApplication4\\Controllers\\Blood_dataController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:05:46.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Controllers\\AdminController.cs",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "WebApplication4\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAmwEkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:45:37.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Users\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Users\\Dashboard.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Users\\Dashboard.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Users\\Dashboard.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAG8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T16:52:15.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAmwA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T20:20:23.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Employee\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Employee\\Privacy.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Employee\\Privacy.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Employee\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T07:49:27.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication4\\appsettings.json",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\appsettings.json",
+              "RelativeToolTip": "WebApplication4\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-24T01:19:51.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CitiesController.cs",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Controllers\\CitiesController.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Controllers\\CitiesController.cs",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Controllers\\CitiesController.cs",
+              "RelativeToolTip": "WebApplication4\\Controllers\\CitiesController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwC8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T01:27:15.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Hospitals\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Hospitals\\Create.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Hospitals\\Create.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Hospitals\\Create.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T08:43:40.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Transaction.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Admin\\Transaction.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Admin\\Transaction.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Admin\\Transaction.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Admin\\Transaction.cshtml",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAqwKcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T13:56:22.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Admin\\Login.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Admin\\Login.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAmwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T19:08:25.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Controllers\\UsersController.cs",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebApplication4\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAFQBAAAAAAAAAAAYwGEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:01:33.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SelectCity.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Users\\SelectCity.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Users\\SelectCity.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Users\\SelectCity.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Users\\SelectCity.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T07:01:16.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Controllers\\TransactionsController.cs",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "WebApplication4\\Controllers\\TransactionsController.cs",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAAAP0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:14:08.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Blood_data\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Blood_data\\Index.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Blood_data\\Index.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Blood_data\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T06:57:33.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Program.cs",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Program.cs",
+              "RelativeToolTip": "WebApplication4\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T04:02:45.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index_u.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Blood_data\\Index_u.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Blood_data\\Index_u.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Blood_data\\Index_u.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Blood_data\\Index_u.cshtml",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAwGcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T16:38:01.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Admin\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Admin\\Privacy.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Admin\\Privacy.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Admin\\Privacy.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T20:23:12.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T02:44:03.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAACMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T02:43:54.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index_u.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Transactions\\Index_u.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Transactions\\Index_u.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Transactions\\Index_u.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Transactions\\Index_u.cshtml",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAHYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T04:18:50.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Users\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Users\\Login.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Users\\Login.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Users\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T06:01:11.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Users\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Users\\Privacy.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Users\\Privacy.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Users\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T06:52:55.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Create_d.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Transactions\\Create_d.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Transactions\\Create_d.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Transactions\\Create_d.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Transactions\\Create_d.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T13:50:20.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index_d.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Hospitals\\Index_d.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Hospitals\\Index_d.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Hospitals\\Index_d.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Hospitals\\Index_d.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T08:46:09.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Hospitals\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Hospitals\\Index.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Hospitals\\Index.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Hospitals\\Index.cshtml",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T08:45:52.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Users\\Index.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T17:15:53.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T17:57:51.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Employees\\Create.cshtml",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T18:03:40.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Cities\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Cities\\Index.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Cities\\Index.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Cities\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T08:42:50.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T16:58:58.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Transactions\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Transactions\\Create.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Transactions\\Create.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Transactions\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T04:53:55.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Models\\Transaction.cs",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Models\\Transaction.cs",
+              "RelativeToolTip": "WebApplication4\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:53:02.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Models\\User.cs",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Models\\User.cs",
+              "RelativeToolTip": "WebApplication4\\Models\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T16:58:30.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index_r.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Hospitals\\Index_r.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Hospitals\\Index_r.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Hospitals\\Index_r.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Hospitals\\Index_r.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T08:46:24.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Transactions\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Transactions\\Index.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Transactions\\Index.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Transactions\\Index.cshtml",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAmwFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T04:05:47.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T19:01:22.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Models\\Employee.cs",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Models\\Employee.cs",
+              "RelativeToolTip": "WebApplication4\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T01:26:58.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "WebApplication4",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\WebApplication4.csproj",
+              "RelativeDocumentMoniker": "WebApplication4\\WebApplication4.csproj",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\WebApplication4.csproj",
+              "RelativeToolTip": "WebApplication4\\WebApplication4.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-24T21:15:39.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T19:01:18.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "_Layoutsp.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Shared\\_Layoutsp.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Shared\\_Layoutsp.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Shared\\_Layoutsp.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Shared\\_Layoutsp.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T19:01:05.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": ".gitignore",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\.gitignore",
+              "RelativeDocumentMoniker": "WebApplication4\\.gitignore",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\.gitignore",
+              "RelativeToolTip": "WebApplication4\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-24T21:16:45.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "_Layout2.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Shared\\_Layout2.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Shared\\_Layout2.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T19:00:55.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "_Layout1.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Shared\\_Layout1.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Shared\\_Layout1.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T19:00:43.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T19:00:02.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "_Layout_home.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Shared\\_Layout_home.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Shared\\_Layout_home.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Shared\\_Layout_home.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Shared\\_Layout_home.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T18:57:13.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "_Layout_c.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Shared\\_Layout_c.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Shared\\_Layout_c.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Shared\\_Layout_c.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Shared\\_Layout_c.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T18:57:09.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "_Layout_u.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Shared\\_Layout_u.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Shared\\_Layout_u.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Shared\\_Layout_u.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Shared\\_Layout_u.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAADAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T18:14:17.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "City.cs",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Models\\City.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Models\\City.cs",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Models\\City.cs",
+              "RelativeToolTip": "WebApplication4\\Models\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T01:26:48.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Views_Users_SelectCity_cshtml.g.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\AppData\\Local\\Temp\\.vsdbgsrc\\ac9dbb81ec62658a48713a4cad6a621c32dce53b\\Views_Users_SelectCity_cshtml.g.cs",
+              "ToolTip": "C:\\Users\\Asus\\AppData\\Local\\Temp\\.vsdbgsrc\\ac9dbb81ec62658a48713a4cad6a621c32dce53b\\Views_Users_SelectCity_cshtml.g.cs [Read Only]",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:18:57.782Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Hospitals\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Hospitals\\Edit.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Hospitals\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Hospitals\\Edit.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T08:45:28.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Hospitals\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Hospitals\\Details.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Hospitals\\Details.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Hospitals\\Details.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T08:45:15.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Employee\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Employee\\Login.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Employee\\Login.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Employee\\Login.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T08:49:49.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Cities\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Cities\\Edit.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Cities\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Cities\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T08:42:35.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Cities\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Cities\\Details.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Cities\\Details.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Cities\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T08:42:24.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Cities\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Cities\\Delete.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Cities\\Delete.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Cities\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T08:42:16.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Cities\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Cities\\Create.cshtml",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Views\\Cities\\Create.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Cities\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T08:42:06.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20250224012136_bloodbank.cs",
+              "DocumentMoniker": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Migrations\\20250224012136_bloodbank.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Migrations\\20250224012136_bloodbank.cs",
+              "ToolTip": "E:\\Project\\Blood-Bank-Management-System-master\\Blood-Bank-Management-System-master\\WebApplication4\\Migrations\\20250224012136_bloodbank.cs",
+              "RelativeToolTip": "WebApplication4\\Migrations\\20250224012136_bloodbank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T01:21:37.154Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

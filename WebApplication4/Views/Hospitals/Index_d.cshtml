@@ -1,0 +1,59 @@
+﻿@model IEnumerable<WebApplication4.Models.Hospital>
+
+@{
+    ViewData["Title"] = "Hospitals";
+    Layout = "~/Views/Shared/_Layout_u.cshtml";
+}
+
+@{
+    var name = ViewData["name"] ?? "";
+    var userId = ViewData["id"] ?? 0;
+    var wallet = ViewData["wallet"] ?? 0;
+}
+
+<h1>Hospitals</h1>
+
+<div class="container">
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card" style="width: 100%;">
+                    <img class="card-img-top" src="@Html.DisplayFor(modelItem => item.h_img)" alt="">
+                    <div class="card-body">
+                        <h5 class="card-title">@Html.DisplayFor(modelItem => item.h_name)</h5>
+                        
+                        <p class="card-text">
+                            <b>Address:</b> @Html.DisplayFor(modelItem => item.h_location)
+                            <br>
+                            <b>Google Maps:</b> <a href="@item.h_loc_url">Location</a>
+                        </p>
+
+                        <!-- Link to Transactions/Create_d -->
+                        @* <a href="@Url.Action( *@
+                        @*     "Create_d", *@
+                        @*     "Transactions",   // Must match "TransactionsController" *@
+                        @*     new { *@
+                        @*         param2 = item.h_Id, *@
+                        @*         u_id = userId, *@
+                        @*         param4 = "Donate", *@
+                        @*         wallet = wallet, *@
+                        @*         name = name, *@
+                        @*         auth = ViewData["auth"] *@
+                        @*     })" *@
+                        @*    class="btn btn-success mt-3"> *@
+                        @*     Donate Blood *@
+                        @* </a> *@
+                    </div>
+                </div>
+            </div>
+        }
+        }
+    </div>
+
+<!-- Log the values to the browser console -->
+<script>
+    console.log("Name:", "@name");
+    console.log("ID:", @userId);
+    console.log("Wallet:", @wallet);
+</script>

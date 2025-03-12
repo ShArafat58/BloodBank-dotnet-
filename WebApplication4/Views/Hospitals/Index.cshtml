@@ -1,0 +1,147 @@
+﻿@model IEnumerable<WebApplication4.Models.Hospital>
+
+@{
+    ViewData["Title"] = "Hospitals";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+
+<style>
+    /* Background Styling */
+    body {
+        background: url('https://st2.depositphotos.com/4431055/11366/i/950/depositphotos_113664518-stock-photo-red-heart-and-a-stethoscope.jpg') no-repeat center center fixed;
+        background-size: cover;
+        font-family: 'Arial', sans-serif;
+    }
+
+    /* Container for better readability */
+    .container {
+        background: rgba(255, 255, 255, 0.9);
+        padding: 20px;
+        border-radius: 15px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        margin-top: 30px;
+    }
+
+    /* Title Styling */
+    h1 {
+        text-align: center;
+        color: #2c3e50;
+        font-weight: bold;
+        margin-bottom: 20px;
+    }
+
+    /* Table Styling */
+    .table {
+        margin-top: 20px;
+        border-radius: 10px;
+        overflow: hidden;
+        background: white;
+    }
+
+        .table th {
+            background-color: #d9534f;
+            color: white;
+            text-align: center;
+            padding: 12px;
+        }
+
+        .table td {
+            text-align: center;
+            vertical-align: middle;
+            padding: 12px;
+        }
+
+        .table tbody tr:hover {
+            background-color: rgba(217, 83, 79, 0.2);
+        }
+
+    /* Button Styling */
+    .btn {
+        padding: 8px 12px;
+        font-size: 14px;
+        border-radius: 5px;
+        text-decoration: none;
+        transition: 0.3s;
+    }
+
+    .btn-primary {
+        background-color: #0275d8;
+        color: white;
+    }
+
+        .btn-primary:hover {
+            background-color: #025aa5;
+        }
+
+    .btn-danger {
+        background-color: #d9534f;
+        color: white;
+    }
+
+        .btn-danger:hover {
+            background-color: #c9302c;
+        }
+
+    .btn-add {
+        display: inline-block;
+        margin-bottom: 15px;
+        font-size: 16px;
+        background-color: #5bc0de;
+        color: white;
+    }
+
+        .btn-add:hover {
+            background-color: #31b0d5;
+        }
+
+    /* Image Styling */
+    .hospital-img {
+        width: 80px;
+        height: 50px;
+        object-fit: cover;
+        border-radius: 5px;
+    }
+</style>
+
+<div class="container">
+    <h1>Hospitals</h1>
+
+    <p>
+        <a asp-action="Create" class="btn btn-add">Add New</a>
+    </p>
+
+    <table class="table table-striped table-bordered">
+        <thead>
+            <tr>
+                <th>Hospital ID</th>
+                <th>Hospital Name</th>
+                <th>City</th>
+                <th>Hospital Location</th>
+                <th>Location URL</th>
+                <th>Hospital Image</th>
+                <th>Blood Quantity</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.h_Id)</td>
+                    <td>@Html.DisplayFor(modelItem => item.h_name)</td>
+                    <td>@Html.DisplayFor(modelItem => item.h_city)</td>
+                    <td>@Html.DisplayFor(modelItem => item.h_location)</td>
+                    <td><a href="@item.h_loc_url" target="_blank">View Location</a></td>
+                    <td>
+                        <img src="@Html.DisplayFor(modelItem => item.h_img)" class="hospital-img" alt="Hospital Image">
+                    </td>
+                    <td>@Html.DisplayFor(modelItem => item.h_bloodquantity) Litres</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.h_Id" class="btn btn-primary">Edit</a>
+                        <a asp-action="Delete" asp-route-id="@item.h_Id" class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

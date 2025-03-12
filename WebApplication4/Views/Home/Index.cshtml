@@ -1,0 +1,101 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_Layout_home.cshtml";
+}
+
+<!-- Optional inline styling for demo purposes -->
+<!-- Ideally, place this in a separate CSS file or in the <head> section of your layout -->
+<style>
+    /* Hover effect on cards */
+    .card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+        transition: all 0.3s ease;
+    }
+
+    /* Icon circle styling */
+    .icon-circle {
+        width: 60px;
+        height: 60px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 20px;
+        font-size: 24px;
+    }
+</style>
+
+<!-- Hero Section with Background Image and Overlay -->
+<section class="hero text-white py-5"
+         style="background: url('https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/182FF/production/_107317099_blooddonor976.jpg')
+                no-repeat center center;
+                background-size: cover;
+                position: relative;">
+    <!-- Overlay to darken the background for better text contrast -->
+    <div style="background-color: rgba(0, 0, 0, 0.6); position: absolute; top: 0; bottom: 0; left: 0; right: 0;"></div>
+    <div class="container py-5 position-relative">
+        <div class="row align-items-center">
+            <div class="col-lg-6">
+                <h1 class="display-4 fw-bold mb-4">Saving Lives Through Blood Donation</h1>
+                <p class="lead mb-4">
+                    Join our life-saving community and help ensure that blood is always there for those who need it most.
+                    Every drop counts! Step forward to donate and be the reason someone gets a second chance.
+                    Your generosity can change a life today.
+                </p>
+                <div class="d-grid gap-3 d-md-block">
+                    <a href="/register" class="btn btn-danger btn-lg px-4 me-2">Become a Donor</a>
+                    <a href="/login" class="btn btn-outline-light btn-lg px-4">Find Blood</a>
+                </div>
+            </div>
+            <!-- Removed the second column containing the image -->
+        </div>
+    </div>
+</section>
+
+<!-- Features Section (How It Works) -->
+<section class="py-5" style="background: linear-gradient(to right, #ff4d4d, #ff1a1a); color: #fff;">
+    <div class="container">
+        <h2 class="text-center mb-5" style="color: #fff;">How It Works</h2>
+        <div class="row g-4">
+            <!-- Register Card -->
+            <div class="col-md-4">
+                <div class="card h-100 border-0 shadow" style="background-color: #fff; color: #333;">
+                    <div class="card-body text-center">
+                        <div class="icon-circle bg-danger text-white mx-auto">
+                            <i class="fas fa-user-plus"></i>
+                        </div>
+                        <h3 class="h4">Register</h3>
+                        <p>Create your donor profile in minutes and join our life-saving network.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Find Need Card -->
+            <div class="col-md-4">
+                <div class="card h-100 border-0 shadow" style="background-color: #fff; color: #333;">
+                    <div class="card-body text-center">
+                        <div class="icon-circle bg-danger text-white mx-auto">
+                            <i class="fas fa-search"></i>
+                        </div>
+                        <h3 class="h4">Find Need</h3>
+                        <p>Quickly locate blood requests or donation centers near you.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Donate Card -->
+            <div class="col-md-4">
+                <div class="card h-100 border-0 shadow" style="background-color: #fff; color: #333;">
+                    <div class="card-body text-center">
+                        <div class="icon-circle bg-danger text-white mx-auto">
+                            <i class="fas fa-hand-holding-heart"></i>
+                        </div>
+                        <h3 class="h4">Donate</h3>
+                        <p>Save lives through a safe and well-managed donation process.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,66 @@
+﻿@model IEnumerable<WebApplication4.Models.City>
+@{
+    ViewData["Title"] = "Select City";
+    Layout = "~/Views/Shared/_Layout_u.cshtml";
+}
+
+<style>
+    body {
+        background: url('https://images.unsplash.com/photo-1524721696987-b9527df9e512?q=80&w=1933&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D') no-repeat center center fixed;
+        background-size: cover;
+        font-family: 'Arial', sans-serif;
+        color: white;
+    }
+
+    .container {
+        max-width: 500px;
+        margin-top: 10%;
+        background: rgba(0, 0, 0, 0.7);
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+    }
+
+    .form-group select {
+        width: 100%;
+        padding: 10px;
+        border-radius: 5px;
+        border: none;
+    }
+
+    .btn-primary {
+        width: 100%;
+        padding: 10px;
+        border-radius: 5px;
+        font-size: 16px;
+        font-weight: bold;
+    }
+</style>
+
+<div class="container text-center">
+    <h2>Select City</h2>
+    <form method="post" action="@Url.Action("SelectCity_r", "Users")">
+        <input type="hidden" name="wallet" value="@ViewData["wallet"]" />
+        <input type="hidden" name="name" value="@ViewData["name"]" />
+        <input type="hidden" name="auth" value="@ViewData["auth"]" />
+        <input type="hidden" name="id" value="@ViewData["id"]" />
+
+        <div class="form-group mt-3">
+            <select id="city" name="city" asp-validation-for="c_name" class="form-control">
+                <option value="">Select City</option>
+                @foreach (var item in Model)
+                {
+                    <option value="@item.c_name">@Html.DisplayFor(modelItem => item.c_name)</option>
+                }
+            </select>
+        </div>
+
+        <button type="submit" class="btn btn-primary mt-3">Load Hospitals</button>
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

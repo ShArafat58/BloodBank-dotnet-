@@ -1,0 +1,73 @@
+﻿@{
+    ViewData["Title"] = "Privacy Policy";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+
+<style>
+    /* Background Image */
+    body {
+        background: url('https://images.unsplash.com/photo-1572470615886-dca9d7e809f2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D') no-repeat center center fixed;
+        background-size: cover;
+    }
+
+    /* Transparent Overlay */
+    .overlay {
+        background: rgba(0, 0, 0, 0.6);
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+
+    /* Card Styling */
+    .privacy-container {
+        position: relative;
+        z-index: 1;
+    }
+
+    .card {
+        background: rgba(255, 255, 255, 0.9);
+        border-radius: 15px;
+        padding: 30px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    }
+
+    h1 {
+        color: #D32F2F;
+        font-weight: bold;
+    }
+
+    p {
+        font-size: 1.1rem;
+        line-height: 1.6;
+    }
+
+    .contact-info {
+        background: #D32F2F;
+        color: white;
+        padding: 15px;
+        border-radius: 10px;
+    }
+</style>
+
+<!-- Overlay -->
+<div class="overlay"></div>
+
+<!-- Privacy Policy Content -->
+<div class="container d-flex justify-content-center align-items-center min-vh-100 privacy-container">
+    <div class="col-md-8">
+        <div class="card">
+            <h1 class="text-center">@ViewData["Title"]</h1>
+            <hr>
+            <p>The Privacy Policy for Blood Bank International website outlines how personal information provided by users is collected, used, and safeguarded. We do not sell or rent personal information to third parties and use appropriate measures to protect it.</p>
+            <p>Cookies are used to personalize user experience and track behavior. We encourage users to review third-party website privacy policies. The policy may be updated, and any changes will be posted on the website.</p>
+            <p>Contact us for any questions or concerns.</p>
+
+            <div class="contact-info text-center mt-4">
+                <h4>Contact Us</h4>
+                <p>Email: <strong>shahriararafat20@gmail.com</strong></p>
+            </div>
+        </div>
+    </div>
+</div>

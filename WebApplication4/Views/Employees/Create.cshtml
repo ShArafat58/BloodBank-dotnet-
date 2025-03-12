@@ -1,0 +1,134 @@
+﻿@model WebApplication4.Models.Employee
+
+@{
+    ViewData["Title"] = "Add Employee";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+
+<style>
+    /* Background Styling */
+    body {
+        background: url('https://st2.depositphotos.com/36924814/46461/i/950/depositphotos_464618606-stock-photo-medical-green-blue-cross-pattern.jpg') no-repeat center center fixed;
+        background-size: cover;
+        font-family: 'Arial', sans-serif;
+    }
+
+    /* Centered Container with Transparent Background */
+    .container {
+        max-width: 500px;
+        background: rgba(255, 255, 255, 0.95);
+        padding: 20px;
+        border-radius: 15px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        margin-top: 40px;
+    }
+
+    /* Form Input Styling */
+    .form-control {
+        border-radius: 8px;
+        padding: 10px;
+        font-size: 16px;
+        border: 1px solid #ccc;
+        transition: 0.3s;
+    }
+
+        .form-control:focus {
+            border-color: #0275d8;
+            box-shadow: 0 0 5px rgba(2, 117, 216, 0.5);
+        }
+
+    /* Title Styling */
+    h1, h4 {
+        text-align: center;
+        color: #2c3e50;
+        font-weight: bold;
+    }
+
+    /* Submit Button */
+    .btn-primary {
+        width: 100%;
+        padding: 10px;
+        font-size: 18px;
+        border-radius: 8px;
+        background-color: #0275d8;
+        color: white;
+        transition: 0.3s;
+        border: none;
+    }
+
+        .btn-primary:hover {
+            background-color: #025aa5;
+        }
+
+    /* Back to List Link */
+    .back-link {
+        display: block;
+        text-align: center;
+        margin-top: 15px;
+        font-size: 16px;
+        color: #0275d8;
+        text-decoration: none;
+    }
+
+        .back-link:hover {
+            text-decoration: underline;
+        }
+</style>
+
+<div class="container">
+    <h1>Add Employee</h1>
+    <h4>Fill out the form below</h4>
+    <hr />
+
+    <form asp-action="Create">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <div class="form-group">
+            <label asp-for="e_Name" class="control-label">Employee Name:</label>
+            <input asp-for="e_Name" class="form-control" placeholder="Enter employee name" />
+            <span asp-validation-for="e_Name" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="e_Email" class="control-label">Employee Email:</label>
+            <input asp-for="e_Email" class="form-control" placeholder="Enter employee email" />
+            <span asp-validation-for="e_Email" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="e_Password" class="control-label">Employee Password:</label>
+            <input asp-for="e_Password" type="password" class="form-control" placeholder="Enter password" />
+            <span asp-validation-for="e_Password" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="status" class="control-label">Employee Status:</label>
+            <select asp-for="status" class="form-control">
+                <option value="Active">Active</option>
+                <option value="Inactive">Inactive</option>
+            </select>
+            <span asp-validation-for="status" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="e_centre_id" class="control-label">Select Hospital/Centre:</label>
+            <select asp-for="e_centre_id" class="form-control">
+                @{
+                    var products = ViewBag.Products as List<string>;
+                    var ids = ViewBag.id as List<int>;
+                }
+                @foreach (var (product, idt) in products.Zip(ids, (a, b) => (a, b)))
+                {
+                    <option value="@idt">@product</option>
+                }
+            </select>
+            <span asp-validation-for="e_centre_id" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <input type="submit" value="Create Employee" class="btn btn-primary" />
+        </div>
+    </form>
+
+    <a asp-action="Index" class="back-link">← Back to List</a>
+</div>

@@ -1,0 +1,128 @@
+﻿@{
+    ViewData["Title"] = "Dashboard";
+    Layout = "~/Views/Shared/_Layout_u.cshtml";
+}
+
+<style>
+    body {
+        background: url('https://plus.unsplash.com/premium_photo-1673214880615-c22716401a78?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzN8fGJsb29kJTIwYmFua3xlbnwwfHwwfHx8MA%3D%3D') no-repeat center center fixed;
+        background-size: cover;
+        color: white;
+        margin: 0;
+        padding: 0;
+        height: 100vh;
+        overflow: hidden;
+    }
+
+    .sidebar {
+        width: 250px;
+        background: rgba(0, 0, 0, 0.8);
+        backdrop-filter: blur(10px);
+        height: 100vh;
+        padding: 20px;
+        box-shadow: 4px 0 10px rgba(0, 0, 0, 0.5);
+        display: flex;
+        flex-direction: column;
+        position: fixed;
+        left: -250px;
+        top: 0;
+        transition: left 0.3s ease;
+    }
+
+        .sidebar.open {
+            left: 0;
+        }
+
+        .sidebar h2 {
+            color: #FFD700;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .sidebar a {
+            color: white;
+            text-decoration: none;
+            padding: 12px 20px;
+            margin: 10px 0;
+            border-radius: 8px;
+            transition: background 0.3s;
+        }
+
+            .sidebar a:hover {
+                background: #FFD700;
+                color: black;
+            }
+
+    .toggle-btn {
+        position: absolute;
+        top: 55px;
+        left: 20px;
+        background: #FFD700;
+        border: none;
+        padding: 10px 15px;
+        border-radius: 5px;
+        cursor: pointer;
+        z-index: 1000;
+    }
+
+    .main-content {
+        margin-left: 0;
+        padding: 40px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        transition: margin-left 0.3s ease;
+    }
+
+        .main-content.shifted {
+            margin-left: 250px;
+        }
+
+        .main-content h1 {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+        }
+
+        .main-content p {
+            font-size: 1.2rem;
+        }
+
+        .main-content b {
+            color: #FFD700;
+        }
+
+
+        .main-content.shifted {
+            margin-left: 200px;
+        }
+
+        .main-content h1 {
+            font-size: 2rem;
+        }
+
+    }</style>
+
+<button class="toggle-btn" onclick="toggleSidebar()">☰</button>
+
+<div class="sidebar" id="sidebar">
+    <h2>Dashboard</h2>
+    <a href="@Url.Action("SelectCity", "Users", new {wallet=ViewData["wallet"],name=ViewData["name"], auth = ViewData["auth"], id = ViewData["id"] })">Contact with Hospital</a>
+    <a href="@Url.Action("SelectCity_r", "Users", new {wallet=ViewData["wallet"],name=ViewData["name"], auth = ViewData["auth"], id = ViewData["id"] })">Receive Blood</a>
+    <a href="@Url.Action("Index_u", "Transactions", new {wallet=ViewData["wallet"],name=ViewData["name"], auth = ViewData["auth"], id = ViewData["id"] })">Transaction History</a>
+</div>
+
+<div class="main-content" id="mainContent">
+    <h1>Hi <b>@ViewData["name"]</b></h1>
+    @* <p>Balance: <b>@ViewData["wallet"]</b></p> *@
+</div>
+
+<script>
+    function toggleSidebar() {
+        const sidebar = document.getElementById('sidebar');
+        const mainContent = document.getElementById('mainContent');
+        sidebar.classList.toggle('open');
+        mainContent.classList.toggle('shifted');
+    }
+</script>

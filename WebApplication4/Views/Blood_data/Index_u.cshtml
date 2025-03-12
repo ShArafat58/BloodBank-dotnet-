@@ -1,0 +1,127 @@
+﻿@model IEnumerable<WebApplication4.Models.Blood_data>
+
+@{
+    ViewData["Title"] = "Blood Availability";
+    Layout = "~/Views/Shared/_Layout_u.cshtml";
+}
+
+<style>
+    body {
+        background: url('https://img.freepik.com/free-vector/white-background-with-blue-tech-hexagon_1017-19366.jpg') no-repeat center center fixed;
+        background-size: cover;
+    }
+
+
+    .container {
+        background: rgba(255, 255, 255, 0.8);
+        padding: 20px;
+        border-radius: 15px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        margin-top: 30px;
+    }
+
+    h1 {
+        text-align: center;
+        color: #2c3e50;
+        font-weight: bold;
+    }
+
+    .table {
+        margin-top: 20px;
+        border-radius: 10px;
+        overflow: hidden;
+    }
+
+        .table th {
+            background-color: #007bff;
+            color: white;
+            text-align: center;
+        }
+
+        .table td {
+            text-align: center;
+            vertical-align: middle;
+        }
+
+    .btn-success {
+        font-weight: bold;
+        padding: 8px 15px;
+        transition: 0.3s;
+    }
+
+        .btn-success:hover {
+            background-color: #218838;
+        }
+</style>
+
+<div class="container">
+    <h1>Blood Availability</h1>
+
+    <table class="table table-striped table-bordered">
+        <thead>
+            <tr>
+                <th>Hospital Name</th>
+                <th>Blood Group</th>
+                <th>Blood Quantity</th>
+                <th>Blood Price</th>
+                @* <th>Action</th> *@
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Dhaka Medical College</td>
+                <td>B+</td>
+                <td>10 liters</td>
+                <td>100 bdt per liter </td>
+            
+                
+
+                
+            </tr>
+            <tr>
+                <td>Khulna Government General Hospital</td>
+                <td>AB+</td>
+                <td>4 liters</td>
+                <td>100 bdt per liter </td>
+            </tr>
+
+            <tr>
+                <td>Chattogram Maa-O-Shishu Hospital</td>
+                <td>O+</td>
+                <td>7 liters</td>
+                <td>100 bdt per liter </td>
+            </tr>
+
+            <tr>
+                <td>Rangpur Medical College and Hospital</td>
+                <td>O-</td>
+                <td>2 liters</td>
+                <td>100 bdt per liter </td>
+            </tr>
+
+            
+
+            <tr>
+                <td>250 Bed District Sadar Hospital, Cox's Bazar</td>
+                <td>AB+</td>
+                <td>3 liters</td>
+                <td>200 bdt per liter </td>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.h_id)</td>
+                    <td><span class="badge bg-danger fs-6">@Html.DisplayFor(modelItem => item.b_type)</span></td>
+                    <td>@Html.DisplayFor(modelItem => item.b_quantity) Litres</td>
+                    <td>$@Html.DisplayFor(modelItem => item.b_price)</td>
+                    <td>
+                        <a href="@Url.Action("Create", "Transactions", new { param1 =@item.b_Id, param2 =ViewBag.Id, u_id=ViewData["id"], param4="Recieve", wallet=ViewData["wallet"], name=ViewData["name"], auth = ViewData["auth"], rn=ViewBag.u_id})" class="btn btn-success">
+                            Receive Blood
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
